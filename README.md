@@ -1,4 +1,4 @@
-# Music_recommender
+<h1>&#9835; Music-recommender &#9835;</h1>
 
 Unsupervised learning project
 - First checks popularity : if user input is in the top 100 = hot!, then, if it is, recommends randomly another top100 song
