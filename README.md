@@ -1,4 +1,6 @@
-<h1>&#9835; Music Recommender &#9835;</h1>
+<h1>&#9835; Music Recommender &#9835;</h1><br>
+
+Note: This project is still under development...<br>
 
 <h3><i>Unsupervised</i> learning project</h3>
 
