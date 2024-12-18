@@ -7,7 +7,7 @@ Note: This project is still under development...<br>
 - Checks popularity: If the song is in the Top 100 (Hot!), a random Top 100 song is recommended. <br>
 By design, recommendations do not reflect user preferences, as per task instructions.
 - If not in Top 100: A similar song is recommended based on the song's scaled audio features, using clustering to find the best match.
-- readme to be continued..... &#128395; <br><br>
+<br><br>
 <h4>How it works:</h4><n>
 
 1. **Top 100 Songs:** <br>
